@@ -6,3 +6,5 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 # milestone_2.py
 The milestone_2.py file is a kind of scratchpad that lets you get started with python by performing tasks related to lists, if...else conditions and more. 
 
+# milestone_3.py
+The milestone_3.py is similar to the milestone_2.py code but enhanced. It has better readability with use of functions in the code, as well as structure is maintained. 
