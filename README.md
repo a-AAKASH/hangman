@@ -8,3 +8,6 @@ The milestone_2.py file is a kind of scratchpad that lets you get started with p
 
 # milestone_3.py
 The milestone_3.py is similar to the milestone_2.py code but enhanced. It has better readability with use of functions in the code, as well as structure is maintained. 
+
+# milestone_3.py
+The milestone_3.py has more conditions implemented for the game. Also, implementation of Class in python has been used. 
